@@ -1,0 +1,24 @@
+.soyclase{
+height: 500px;
+width: 500px;
+border-radius: 600px;
+}
+.navbar > a{
+padding: 0px 15%;
+color:black;
+}
+.navbar{
+border bottom: 1px solid;
+background-color: #5c92e8;
+}
+.texto2 > ::-webkit-input-placeholder {
+color: black;
+background-color: #dce2ed
+}
+.texto3 > ::-webkit-input-placeholder{
+  color: black;
+  background-color: #dce2ed
+}
+.body {
+  background-color: #yellow
+}
